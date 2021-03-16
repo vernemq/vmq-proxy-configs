@@ -69,13 +69,13 @@ HAProxy Community Edition: http://www.haproxy.org/#docs
 
 NGINX: https://nginx.org/en/docs/
 
-NGIXN (commercial editions): https://docs.nginx.com/
+NGINX (commercial editions): https://docs.nginx.com/
 
 Kubernetes: 
 - Ingress Controllers: https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
 - Gobetween: https://github.com/yyyar/gobetween
-(has aynone used it with MQTT?)
+(has aynone used it with MQTT? Project status?)
 
 
 ### Wiki Topics
@@ -97,3 +97,5 @@ Kubernetes:
 #### DNS topics
 
 #### Kubernetes Ingress
+
+#### Interesting Blog Posts and Resources
